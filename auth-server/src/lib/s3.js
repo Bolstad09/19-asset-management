@@ -29,7 +29,6 @@ const upload = (path, key) => {
     });
     
 };
-
 const remove = (key) => {
   return s3.deleteObject({
     Key: key,
