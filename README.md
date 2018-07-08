@@ -4,7 +4,7 @@
 
 ## Links
 * Travis: https://travis-ci.com/Bolstad09/19-asset-management.svg?branch=master
-* PR:
+* PR: https://github.com/Bolstad09/19-asset-management/pull/1
 
 
 ## Submission Instructions
